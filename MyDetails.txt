@@ -1,0 +1,6 @@
+Hi there!, I'm Saptarshi Mandal, a final year PhD candidate in the department of 
+Industrial and Systems Engineering at the University of Oklahoma.
+My research interest involves developing novel analysis frameworks (both quantitative and qualitative) 
+to solve issues in complex human-integrated systems. In detail, I'm very much interested in 
+leveraging the power of Data Analytics and Machine Learning to evaluate and optimize systems where
+Human beings are an integral part, e.g. Air traffic control, Industrial safety etc. 

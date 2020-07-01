@@ -1,0 +1,4 @@
+email: abc@gmail.com
+email:xyz@outlook.com
+email:saptarshi@ou.edu
+email:mandal@gmail.com
